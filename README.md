@@ -6,12 +6,12 @@ O objetivo deste projeto é aplicar todo o conhecimento adquirido ao decorrer da
 
 No Linux:
 ```
-git clone https://github.com/karinamaria/ProjetoGomoku.git
+git clone https://github.com/WadsonPontes/gomoku.git
 bash script.sh
 ```
-No Windows
+No Windows:
 ```
-git clone https://github.com/karinamaria/ProjetoGomoku.git
+git clone https://github.com/WadsonPontes/gomoku.git
 script.bat
 ```
 ## Regras do Gomoku

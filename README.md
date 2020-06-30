@@ -1,4 +1,4 @@
-## Projeto Gomoku
+## Gomoku
 
 O objetivo deste projeto é aplicar todo o conhecimento adquirido ao decorrer das aulas da disciplina Introdução às Técnicas de Programação. Para isso, desenvolveremos um jogo eletrônico chamado Gomoku e também a sua versão mais elaborada, o Ninuki.
 
